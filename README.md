@@ -1,2 +1,2 @@
-# CV_Thresholding_And_Segmentation
-Lista 1b de visão computacional em robotica
+## CV_Thresholding_And_Segmentation
+Exercise for my computer vision course at USP.
